@@ -11,7 +11,7 @@ game.resources = [
          {name: "creep1", type:"image", src: "data/img/brainmonster.png"},
          {name: "title-screen", type:"image", src: "data/img/jurassicpark.jpg"},
          {name: "exp-screen", type:"image", src: "data/img/loadpic.png"},
-         {name: "gold-screen", type:"image", src: "data/img/loadpic.png"},
+         {name: "gold-screen", type:"image", src: "data/img/.png"},
          {name: "load-screen", type:"image", src: "data/img/loadpic.png"},
          {name: "new-screen", type:"image", src: "data/img/newpic.png"},
          

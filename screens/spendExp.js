@@ -47,7 +47,7 @@ game.SpendExp = me.ScreenObject.extend({
 //                }else if(action == "F5"){
 //                    me.state.change(me.state.PLAY);
 //                }
-//            });
+//           });
                                                                                          
 	/**	
 	 *  action to perform when leaving this screen (state change)
